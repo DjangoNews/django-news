@@ -1,6 +1,31 @@
 ## Overview
 
-## Notices
+Welcome to Django's News and Updates podcast, the accompanying podcast to Django's blog and update email.
+
+These are the update for the 28 days up to _[Dth Mmmmm YYYY]_
+
+    The latest stable release of Django is: X.X.X
+    The latest stable release of Python is: X.X.X
+
+## Security
+
+_[### Post Title]_
+
+Posted by _[Post Author]_ on _[Month D, YYYY]_
+
+_[Post]_
+
+
+## Notices/Upcoming cut-off and closing dates
+
+- _[D-Mmm-YYYY (Ddd)]_: _[Description]_
+- _[D-Mmm-YYYY (Ddd)]_: _[Description]_
+
+_[### Post Title]_
+
+Posted by _[Post Author]_ on _[Month D, YYYY]_
+
+_[Post]_
 
 ## Ticket Movement
 
@@ -10,41 +35,9 @@ Short lived tickets: n
 Tickets Created: n
 
 Open tickets: n (+/-n)
-
 ```
 
-## Projects
-
-## Did you know?
-
-## Summary
-
-
----
-
-Welcome to Django's News and Updates podcast, the accompanying podcast to Django's blog and update email.
-
-These are the update for the 28 days up to _[Dth Mmmmm YYYY]_
-
-    The latest stable release of Django is: X.X.X
-    The latest stable release of Python is: X.X.X
-
-## 0. Security
-
-_[### Post Title]_
-
-Posted by _[Post Author]_ on _[Month D, YYYY]_
-
-_[Post]_
-
-
-## 1. Upcoming cut-off and closing dates
-
-- _[D-Mmm-YYYY (Ddd)]_: _[Description]_
-- _[D-Mmm-YYYY (Ddd)]_: _[Description]_
-
-
-## 2. Releases
+## Releases
 
 ### Minor Releases ##
 
@@ -67,7 +60,9 @@ The _[X.X]_ Roadmap schedule is:
 -  _[X.X]_ release candidate -- Mmmm dth (translations freeze)
 -  Final release -- Mmmm dth (assuming a second release candidate is not needed)
 
-## 3. News
+## Notices/News
+
+##### Projects, Call-out and Updates
 
 _[### Post Title]_
 
@@ -75,13 +70,11 @@ Posted by _[Post Author]_ on _[Month D, YYYY]_
 
 _[Post]_
 
-
-### Other News
-
 _[Any other news]_
 
+If you have any community requests for volunteers, support, sponsorship or other projects, please email [scoop@djangoproject.com](scoop@djangoproject.com) to be posted here.
 
-## 4. Conferences/Events
+## Conferences/Events
 
 _[### Post Title]_
 
@@ -96,21 +89,11 @@ _[Post]_
 - _[D-D Mmm YYYY]_: _[Event Name]_ (Country) [URL]
 
 
-## 5. Community requests
+## Did you know?
 
-_[### Post Title]_
+## Summary
 
-Posted by _[Post Author]_ on _[Month D, YYYY]_
-
-_[Post]_
-
-
-## Django Community Call-out and Updates
-
-If you have any community requests for volunteers, support, sponsorship or other projects, please email [scoop@djangoproject.com](scoop@djangoproject.com) to be posted here.
-
-These show notes are "open source" on github so please be sure to make any corrections or additions at: [github.com/elena/django-news-podcast](https://github.com/elena/django-news-podcast/blob/master/9999_2013-12-29.md)
-
+These show notes are "open source" on github so please be sure to make any corrections or additions at: https://github.com/DjangoNews/django-news
 
 ## Django Developers Mailing List
 
